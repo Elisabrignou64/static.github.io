@@ -1,3 +1,63 @@
 h1 {
   color: red;
 }
+body	{background: blue;
+	text-align: center;
+	font-family: quicksand;
+}
+h1{
+	color:yellow; 
+	font-size: 100px ;
+	text-align: center;
+	font-family: phosphate;
+}
+h2 {
+	color: blue;
+	font-size: 25px;
+	text-align:  center;
+	font-family: phosphate;
+}
+p{
+	color:white;
+	font-size: 100px;
+	font-family: PHOSPHATE
+
+}
+
+
+	img{width: 1000px}
+ul{
+	color: white;
+	font-family: quicksand
+	text-align:center;
+}
+a{
+	color : yellow;
+	font-size: 200px;
+	font-family: phosphate;
+	text-align: center;
+}
+ul{color: white;
+	font-size: 100px;
+	font-family: phosphate;
+	text-align: center;
+}
+.dog{width: 500px;
+
+}
+.box-green{
+	background:red;
+	margin : 100px;
+}
+.box-blue {
+	background: blue 
+	width: 100px;
+
+}
+.box-white{
+	background: white
+}
+.box-red{
+	background: red
+	width : 400px;
+}
